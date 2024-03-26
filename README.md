@@ -12,5 +12,5 @@
 * Lớp: 20DTHC2
 * Khóa:2020 - 2024
 
-## Giao diện của chương trình
+## Giao diện trang chủ
 
