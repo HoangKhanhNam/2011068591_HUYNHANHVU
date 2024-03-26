@@ -13,5 +13,5 @@
 * Khóa:2020 - 2024
 
 ## Giao diện trang chủ
-!(đ1)[https://github.com/vuhuynh2002/2011068591_HUYNHANHVU/blob/master/Screenshot%202024-03-20%20122515.png]
+![](https://github.com/vuhuynh2002/2011068591_HUYNHANHVU/blob/master/Screenshot%202024-03-20%20122515.png)
 ## Giao diện đăng nhập
